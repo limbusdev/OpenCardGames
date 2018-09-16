@@ -10,3 +10,8 @@ Have a look at [OpenBoardGames](https://github.com/gembutterfly/OpenBoardGames) 
 
 [Game Manual](./Doppelkopf/README_-_Doppelkopf.md)
 
+## Rommé / Canasta
+
+![](./Rommé/logo_romme_OCG.png)
+
+[Game Manual](./Rommé/README_-_Rommé.md)
